@@ -19,3 +19,12 @@
 [submodule "evaluate-graph/pangenome-benchmark"]
 	path = evaluate-graph/pangenome-benchmark
 	url = https://github.com/dubssieg/pangenome-benchmark.git
+[submodule "isera"]
+	path = discontinued-projects/isera
+	url = https://github.com/dubssieg/isera.git
+[submodule "pangenome-notes"]
+	path = discontinued-projects/pangenome-notes
+	url = https://github.com/dubssieg/pangenome-notes.git
+[submodule "graph-distance/pancat_paper"]
+	path = graph-distance/pancat_paper
+	url = https://github.com/dubssieg/pancat_paper.git
