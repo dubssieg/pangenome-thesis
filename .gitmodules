@@ -28,3 +28,12 @@
 [submodule "graph-distance/pancat_paper"]
 	path = graph-distance/pancat_paper
 	url = https://github.com/dubssieg/pancat_paper.git
+[submodule "collaboration-projects/INVPG_annot"]
+	path = collaboration-projects/INVPG_annot
+	url = https://github.com/SandraLouise/INVPG_annot.git
+[submodule "collaboration-projects/INVPG_annot_paper"]
+	path = collaboration-projects/INVPG_annot_paper
+	url = https://github.com/SandraLouise/INVPG_annot_paper.git
+[submodule "collaboration-projects/Stage"]
+	path = collaboration-projects/Stage
+	url = https://github.com/cb-inria/Stage.git
