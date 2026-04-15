@@ -1,0 +1,21 @@
+[submodule "deconstruct-experiments/correct-vg-deconstruct-vcf"]
+	path = deconstruct-experiments/correct-vg-deconstruct-vcf
+	url = https://github.com/dubssieg/correct-vg-deconstruct-vcf.git
+[submodule "graph-distance/rs-pancat-compare"]
+	path = graph-distance/rs-pancat-compare
+	url = https://github.com/dubssieg/rs-pancat-compare.git
+[submodule "manipulation-tools/rs-pancat-paths"]
+	path = manipulation-tools/rs-pancat-paths
+	url = https://github.com/dubssieg/rs-pancat-paths.git
+[submodule "manipulation-tools/sharepg"]
+	path = manipulation-tools/sharepg
+	url = https://github.com/dubssieg/sharepg.git
+[submodule "manipulation-tools/gfagraphs"]
+	path = manipulation-tools/gfagraphs
+	url = https://github.com/dubssieg/gfagraphs.git
+[submodule "manipulation-tools/pancat"]
+	path = manipulation-tools/pancat
+	url = https://github.com/dubssieg/pancat.git
+[submodule "evaluate-graph/pangenome-benchmark"]
+	path = evaluate-graph/pangenome-benchmark
+	url = https://github.com/dubssieg/pangenome-benchmark.git
