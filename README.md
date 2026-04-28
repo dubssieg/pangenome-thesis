@@ -1,5 +1,7 @@
 # pangenome-thesis
 
+This repository contains all the links to the projects I did during my PhD in pangenomics.
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dubssieg&repo=pancat)](https://github.com/dubssieg/pancat)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dubssieg&repo=gfagraphs)](https://github.com/dubssieg/gfagraphs)
