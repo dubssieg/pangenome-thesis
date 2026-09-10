@@ -20,19 +20,14 @@ Cette librairie a pour objectif d'offrir une couche d'abstraction au format de f
 
 Outil permettant d'analyser les séquences communes entre les populations dans les pangénomes. Ce petit outil en ligne de commande vise à vérifier les régions d'un graphe qui sont communes à un ensemble de génomes et qui ne sont pas traversées par un autre ensemble.
 
-# Autres répertoires
-
-## Répertoires Zenodo
+# Répertoires Zenodo
 
 + [Établissement et évaluation d'une distance entre graphes de variation](https://doi.org/10.5281/zenodo.19497832) (chapitre 2)
 + [Représentation des variants génomiques dans un graphe de variation](https://doi.org/10.5281/zenodo.22688384) (chapitre 3)
 + [Simulations pour l'évaluation de la fiabilité des graphes de variation](https://doi.org/10.5281/zenodo.22685597) (chapitre 4)
-+ [Pairwise graph edit distance characterizes the impact of the construction method on pangenome graphs](https://doi.org/10.5281/zenodo.10932489) (publication Bioinformatics)
++ [Pairwise graph edit distance characterizes the impact of the construction method on pangenome graphs](https://doi.org/10.5281/zenodo.10932489) ([publication Bioinformatics](https://academic.oup.com/bioinformatics/article/41/6/btaf291/8127914))
 
-## [pancat_paper (GitHub)](https://github.com/dubssieg/pancat_paper)
+# Répertoires GitHub
 
-Notebooks et scripts pour reproduire les figures et expériences de la publication "[Pairwise graph edit distance characterizes the impact of the construction method on pangenome graphs](https://academic.oup.com/bioinformatics/article/41/6/btaf291/8127914)".
-
-## [pangenome_benchmark (GitHub)](https://github.com/dubssieg/pangenome_benchmark)
-
-Notebooks et scripts pour reproduire les figures et expériences sur les simulations et reconstructions de graphes.
++ [pancat_paper](https://github.com/dubssieg/pancat_paper): Notebooks et scripts pour reproduire les figures et expériences de la [publication Bioinformatics](https://academic.oup.com/bioinformatics/article/41/6/btaf291/8127914).
++ [pangenome_benchmark](https://github.com/dubssieg/pangenome_benchmark) : Notebooks et scripts pour reproduire les figures et expériences sur les simulations et reconstructions de graphes.
